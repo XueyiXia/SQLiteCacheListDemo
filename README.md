@@ -1,0 +1,2 @@
+# SQLiteCacheListDemo
+这是一个简单的数据库做的缓存列表，就是一个简单的聊天缓存demo
